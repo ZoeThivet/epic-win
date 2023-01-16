@@ -8,6 +8,8 @@
 
 **jeton utilisateur** : jeton personnel
 
+**pour être sûr(e) de \[...\]** : pour s'assurer de \[...\]
+
 **testeur** : QA, spécialiste en test logiciel
 
 **utilisateur, utilisatrice** : membre
@@ -18,4 +20,4 @@
 
 **vous êtes (dé)connecté(e)** : (dé)connexion réussie
 
-**vous n'êtes pas autorisé(e) à accéder à cette page** : vous n'avez pas la permission/l'autorisation d'accéder à cette page
+**vous n'êtes pas autorisé(e) à accéder à cette page** : vous n'avez pas la permission / l'autorisation d'accéder à cette page
