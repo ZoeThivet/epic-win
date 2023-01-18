@@ -16,6 +16,8 @@
 
 **êtes-vous sûr(e) de vouloir... ?** : voulez-vous vraiment... ?
 
+**êtes-vous sûr(e) qu'il n'y a pas de... ?** : peut-être existe-t-il... ?
+
 **expert** : spécialiste
 
 **interface homme-machine** : interface humain-machine
@@ -30,6 +32,8 @@
 
 **nous sommes désolé(e)s** : nous nous excusons, toutes nos excuses
 
+**nous sommes heureux, heureuses** : nous nous réjouissons
+
 **nous sommes impatient(e)s** : nous avons hâte
 
 **permettre aux utilisateurs** : permettre (tout court !)
@@ -38,7 +42,7 @@
 
 **testeur** : QA, membre de l'équipe de test, spécialiste en test logiciel
 
-**utilisateur, utilisatrice** : membre
+**utilisateur, utilisatrice** : personne, membre
 
 **veuillez contacter l'administrateur du site** : veuillez contacter l'administration du site / la personne administrant le site
 
