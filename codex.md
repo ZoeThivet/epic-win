@@ -2,6 +2,8 @@
 
 **ami(e)** : camarade, collègue, contact
 
+**autoriser les utilisateurs, les utilisatrices, à s'inscrire** : autoriser l'inscription
+
 **compte utilisateur** : compte (tout court !), compte personnel
 
 **connecté(e)** : en ligne, en mode connecté
@@ -40,9 +42,13 @@
 
 **pour être sûr(e) de \[...\]** : pour s'assurer de \[...\]
 
+**sans l'aide de l'utilisateur, de l'utilisatrice** : sans aide humaine, sans intervention humaine
+
+**si l'utilisateur ou l'utilisatrice change de configuration** : si la configuration est changée
+
 **testeur** : QA, membre de l'équipe de test, spécialiste en test logiciel
 
-**utilisateur, utilisatrice** : personne, membre
+**utilisateur, utilisatrice** : compte, personne, membre, on
 
 **veuillez contacter l'administrateur du site** : veuillez contacter l'administration du site / la personne administrant le site
 
