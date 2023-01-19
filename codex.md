@@ -44,7 +44,7 @@
 
 **sans l'aide de l'utilisateur, de l'utilisatrice** : sans aide humaine, sans intervention humaine
 
-**si l'utilisateur ou l'utilisatrice change de configuration** : si la configuration est changée
+**si l'utilisateur ou l'utilisatrice change de ...** : si le/la ... est changé(e)
 
 **testeur** : QA, membre de l'équipe de test, spécialiste en test logiciel
 
