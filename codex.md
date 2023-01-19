@@ -20,7 +20,7 @@
 
 **êtes-vous sûr(e) qu'il n'y a pas de... ?** : peut-être existe-t-il... ?
 
-**expert** : spécialiste
+**expert** : senior, spécialiste
 
 **interface homme-machine** : interface humain-machine
 
