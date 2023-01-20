@@ -1,6 +1,8 @@
-**administrateur, administratrice** : admin, administration du site, membre de l'administration, personne administrant \[le site, le système...\]
+**administrateur, administratrice** : admin, administration du site, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice
 
 **ami(e)** : camarade, collègue, contact
+
+**assistance client** : assistance cliente (on passe du nom "client", à l'adjectif "cliente", accordé à "assistance")
 
 **autoriser les utilisateurs, les utilisatrices, à s'inscrire** : autoriser l'inscription
 
@@ -14,7 +16,7 @@
 
 **développeur, développeuse** : dev, membre de l'équipe de développement, spécialiste en développement
 
-**êtes-vous sûr(e) ?** : confirmez-vous ?
+**êtes-vous sûr(e) ?** : confirmez-vous ? est-ce vraiment ce que vous voulez ?
 
 **êtes-vous sûr(e) de vouloir... ?** : voulez-vous vraiment... ?
 
@@ -30,6 +32,8 @@
 
 **l'appareil sur lequel vous êtes connecté(e)** : l'appareil que vous utilisez, l'appareil sur lequel vous avez effectué une connexion
 
+**le, la propriétaire de \[...\]** : la personne gérant \[...\]
+
 **nom d'utilisateur** : identifiant
 
 **nous sommes désolé(e)s** : nous nous excusons, toutes nos excuses
@@ -42,6 +46,8 @@
 
 **pour être sûr(e) de \[...\]** : pour s'assurer de \[...\]
 
+**rester connecté(e)** : maintenir la connexion
+
 **sans l'aide de l'utilisateur, de l'utilisatrice** : sans aide humaine, sans intervention humaine
 
 **si l'utilisateur ou l'utilisatrice change de ...** : si le/la ... est changé(e)
@@ -52,13 +58,17 @@
 
 **veuillez contacter l'administrateur du site** : veuillez contacter l'administration du site / la personne administrant le site
 
-**vous allez être redirigé vers la page d'accueil** : nous allons vous rediriger vers la page d'accueil
+**vous allez être déconnecté(e) de votre session** : votre session va être déconnectée, votre session va expirer
+
+**vous allez être redirigé(e) vers la page d'accueil** : nous allons vous rediriger vers la page d'accueil
 
 **vous êtes (dé)connecté(e)** : (dé)connexion réussie
 
 **vous êtes déjà inscrit(e)** : vous avez déjà un compte
 
 **vous êtes invité(e) à \[...\]** : il vous est conseillé de, nous vous invitons à
+
+**vous êtes nouveau, nouvelle ici ?** : vous découvrez (le site, l'organisation...) ? vous venez d'arriver ?
 
 **vous êtes prêt(e)** : vous allez pouvoir vous lancer
 
