@@ -1,3 +1,5 @@
+**à quel point êtes-vous satisfait(e) de la performance du site ?** : à quel point la performance du site vous satisfait-elle ?
+
 **administrateur, administratrice** : admin, administration du site, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice
 
 **ami(e)** : camarade, collègue, contact
@@ -17,6 +19,8 @@
 **développeur, développeuse** : dev, membre de l'équipe de développement, spécialiste en développement
 
 **êtes-vous sûr(e) ?** : confirmez-vous ? est-ce vraiment ce que vous voulez ?
+
+**êtes-vous sûr(e) d'avoir correctement saisi votre adresse courriel ?** : votre adresse courriel a-t-elle été correctement saisie ?
 
 **êtes-vous sûr(e) de vouloir... ?** : voulez-vous vraiment... ?
 
@@ -61,6 +65,8 @@
 **vous allez être déconnecté(e) de votre session** : votre session va être déconnectée, votre session va expirer
 
 **vous allez être redirigé(e) vers la page d'accueil** : nous allons vous rediriger vers la page d'accueil
+
+**vous reconnaissez être informé(e) que \[...\]** : vous confirmez que vous savez que \[...\]
 
 **vous êtes (dé)connecté(e)** : (dé)connexion réussie
 
