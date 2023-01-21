@@ -14,6 +14,8 @@
 
 **débutant** : junior, novice
 
+**contributeur financier, donateur** : mécène
+
 **déconnecté(e)** : en mode déconnecté, hors-ligne
 
 **développeur, développeuse** : dev, membre de l'équipe de développement, spécialiste en développement
