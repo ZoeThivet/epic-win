@@ -38,6 +38,8 @@
 
 **le, la propriétaire de \[...\]** : la personne gérant \[...\]
 
+**lorsque vous vous êtes inscrit(e)** : lors de votre inscription
+
 **nom d'utilisateur** : identifiant
 
 **nous sommes désolé(e)s** : nous nous excusons, toutes nos excuses
