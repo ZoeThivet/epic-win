@@ -12,7 +12,7 @@ Pour les personnes qui créent des logiciels et recherchent des termes qui impli
 
 ## Comment contribuer ?
 
-Si des exemples vous viennent, vous pouvez ajouter des termes et expressions dans le fichier (resources/codex.md) !
+Si des exemples vous viennent, vous pouvez ajouter des termes et expressions dans le fichier [resources/codex.md] !
 
 Vous pouvez aussi créer des issues pour partager un terme ou une phrase que vous souhaiteriez rendre épicène. Ce n'est pas toujours facile et on y réfléchit mieux à plusieurs :D
 Pensez bien à mettre un maximum de contexte afin que la traduction soit la meilleure possible.
