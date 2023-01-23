@@ -4,6 +4,8 @@
 
 Un recueil de termes et expressions genrées et leurs équivalents épicènes, pour des interfaces plus inclusives :)
 
+... Et aussi (bientôt) une extension de navigateur pour repérer les mots qui pourraient être rendus épicènes !
+
 ## C'est pour qui ?
 
 Pour les personnes qui créent des logiciels et recherchent des termes qui impliquent 100 % de leur cible.
