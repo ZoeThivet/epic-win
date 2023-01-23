@@ -16,6 +16,8 @@
 
 **contributeur financier, donateur** : mécène
 
+**contributeur** : "membre de la communauté
+
 **déconnecté(e)** : en mode déconnecté, hors-ligne
 
 **développeur, développeuse** : dev, membre de l'équipe de développement, spécialiste en développement
