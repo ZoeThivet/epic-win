@@ -12,11 +12,11 @@
 
 **connecté(e)** : en ligne, en mode connecté
 
-**débutant** : junior, novice
+**contributeur** : "membre de la communauté
 
 **contributeur financier, donateur** : mécène
 
-**contributeur** : "membre de la communauté
+**débutant** : junior, novice
 
 **déconnecté(e)** : en mode déconnecté, hors-ligne
 
