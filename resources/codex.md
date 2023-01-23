@@ -12,7 +12,7 @@
 
 **connecté(e)** : en ligne, en mode connecté
 
-**contributeur** : "membre de la communauté
+**contributeur** : membre de la communauté
 
 **contributeur financier, donateur** : mécène
 
