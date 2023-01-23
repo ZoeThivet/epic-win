@@ -32,3 +32,8 @@ Et parce qu'impliquer 100 % des gens dans ce qu'on dit ou écrit est parfois un 
 Bon d'accord, pour le moment il n'y a qu'une ressource. Mais c'est déjà très suffisant pour comprendre le fond du problème et pourquoi il importe de le régler !
 
 https://www.youtube.com/watch?v=url1TFdHlSI
+
+
+Exemples de dictionnaire sur le sujet des épicènes pour faire avancer la réflexion sur le sujet (plus le fond que la technique ou la forme pour le moment)
+
+https://docs.google.com/spreadsheets/d/1jsI_J06jnqgadl9Uo3lBhKnGzuPYEY1_SRQhReifH-Q/edit?usp=sharing
