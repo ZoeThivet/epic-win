@@ -12,7 +12,7 @@ Pour les personnes qui créent des logiciels et recherchent des termes qui impli
 
 ## Comment contribuer ?
 
-Si des exemples vous viennent, vous pouvez ajouter des termes et expressions dans le fichier codex.md !
+Si des exemples vous viennent, vous pouvez ajouter des termes et expressions dans le fichier (resources/codex.md) !
 
 Vous pouvez aussi créer des issues pour partager un terme ou une phrase que vous souhaiteriez rendre épicène. Ce n'est pas toujours facile et on y réfléchit mieux à plusieurs :D
 Pensez bien à mettre un maximum de contexte afin que la traduction soit la meilleure possible.
@@ -34,6 +34,6 @@ Bon d'accord, pour le moment il n'y a qu'une ressource. Mais c'est déjà très 
 https://www.youtube.com/watch?v=url1TFdHlSI
 
 
-Exemples de dictionnaire sur le sujet des épicènes pour faire avancer la réflexion sur le sujet (plus le fond que la technique ou la forme pour le moment)
+Exemples de dictionnaire sur le sujet des épicènes :
 
 https://docs.google.com/spreadsheets/d/1jsI_J06jnqgadl9Uo3lBhKnGzuPYEY1_SRQhReifH-Q/edit?usp=sharing
