@@ -24,7 +24,7 @@ Alors que le masculin dit "neutre" invisibilise les femmes...
 
 ## 🤔 Pourquoi `epic-win` ?
 
-Parce'que:
+Parce que:
 
 - ✅ *epic* et *épicène* ça commence pareil 😎
 - ✅ Impliquer **100 % des gens** dans ce qu'on dit ou écrit est parfois un challenge, et quand on le relève c'est
@@ -36,3 +36,7 @@ un [_epic win_](https://videogamecreation.fr/glossaire/epic-win/).
 )
 - 🕮 [Dictionnaire de termes épicènes](https://docs.google.com/spreadsheets/d/1jsI_J06jnqgadl9Uo3lBhKnGzuPYEY1_SRQhReifH-Q/edit?usp=sharing
 )
+
+## 🙏 Crédit image
+
+Alex Martynov
