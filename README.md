@@ -37,7 +37,7 @@ un [_epic win_](https://videogamecreation.fr/glossaire/epic-win/).
 - 🕮 [Dictionnaire de termes épicènes](https://docs.google.com/spreadsheets/d/1jsI_J06jnqgadl9Uo3lBhKnGzuPYEY1_SRQhReifH-Q/edit?usp=sharing
 )
 
-## 🙏 Crédit image
+## 🙏 Crédits images
 
 Icône de l'extension : Alex Martynov
 Social media preview : Adrien Sales
