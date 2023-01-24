@@ -3,7 +3,7 @@
   "action": {},
   "manifest_version": 3,
   "version": "1",
-  "description": "Cette extension aide à identifier les termes non inclusifs d'un site web, et propose des alternatives. Pour analyser une page, cliquer sur le bouton de l'extension.",
+  "description": "Cette extension aide à identifier les termes non inclusifs d'un site web. Pour analyser une page, cliquer sur la framboise :)",
   "permissions": [
     "activeTab",
     "scripting"
