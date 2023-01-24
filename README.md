@@ -39,4 +39,5 @@ un [_epic win_](https://videogamecreation.fr/glossaire/epic-win/).
 
 ## 🙏 Crédit image
 
-Alex Martynov
+Icône de l'extension : Alex Martynov
+Social media preview : Adrien Sales
