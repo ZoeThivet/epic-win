@@ -50,6 +50,8 @@
 
 **nous sommes heureux, heureuses** : nous nous réjouissons
 
+**nous sommes heureux, heureuses de vous annoncer \[...\]** : nous avons le plaisir de vous annoncer \[...\]
+
 **nous sommes impatient(e)s** : nous avons hâte
 
 **permettre aux utilisateurs** : permettre (tout court !)
@@ -57,6 +59,8 @@
 **pour être sûr(e) de \[...\]** : pour s'assurer de \[...\]
 
 **rester connecté(e)** : maintenir la connexion
+
+**restez informé(e)** : tenez-vous au courant
 
 **sans l'aide de l'utilisateur, de l'utilisatrice** : sans aide humaine, sans intervention humaine
 
