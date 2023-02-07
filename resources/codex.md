@@ -78,13 +78,15 @@
 
 **vous reconnaissez être informé(e) que \[...\]** : vous confirmez que vous savez que \[...\]
 
-**vous êtes (dé)connecté(e)** : (dé)connexion réussie
+**vous êtes (dé)connecté(e)** : (dé)connexion réussie, votre connexion est (in)active
 
 **vous êtes déjà inscrit(e)** : vous avez déjà un compte
 
 **vous êtes invité(e) à \[...\]** : il vous est conseillé de, nous vous invitons à
 
 **vous êtes nouveau, nouvelle ici ?** : vous découvrez (le site, l'organisation...) ? vous venez d'arriver ?
+
+**vous êtes passé(e) par \[telle solution\]** : vous utilisé \[telle solution\]
 
 **vous êtes prêt(e)** : vous allez pouvoir vous lancer
 
