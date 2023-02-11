@@ -7,7 +7,7 @@
 For people who create software in French (or including a French version) and are looking for terms that imply 100% of their target.
 
 ## :octocat: Contribute?
-If examples come to mind, you can add terms and expressions to this file!
+If examples come to mind, you can add terms and expressions to [this file](resources/codex.md)!
 
 💡 You can also create issues to share a term or phrase you would like to make gender-neutral.
 It's not always easy and we think better together 😅
@@ -23,10 +23,6 @@ Because:
 - ✅ In French, epic and epicène (which means gender-neutral) start the same way 😎
 - ✅ Involving 100% of people in what we say or write is sometimes a challenge, and when we meet it, it's
 an epic win.
-
-## 📑 Resources
-- 📽️ Video that explains the stakes well
-- 🕮 Gender-neutral terms dictionary
 
 ## 🙏 Image credits
 - Extension icon: Alex Martynov
