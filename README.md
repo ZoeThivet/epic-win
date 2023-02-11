@@ -1,3 +1,41 @@
+**EN**
+## ❔ About
+🧑‍🤝‍🧑 A collection of gendered terms and expressions and their gender-neutral equivalents, for more inclusive interfaces 👐
+🤓 And also (soon) a browser extension to identify words that could be made gender-neutral ❣️
+
+## 🎯 For whom?
+For people who create software and are looking for terms that imply 100% of their target.
+
+## :octocat: Contribute?
+If examples come to mind, you can add terms and expressions to this file!
+
+💡 You can also create issues to share a term or phrase you would like to make gender-neutral.
+It's not always easy and we think better together 😅
+
+ℹ️ Make sure to provide as much context as possible so that the translation is as good as possible.
+
+## 💭 Why this project?
+While the so-called "neutral" masculine invisibilizes women...
+
+gender-neutral writing goes beyond the very notion of gender, and that's beautiful.
+
+## 🤔 Why epic-win?
+Because:
+✅ In French, epic and epicène (which means gender-neutral) start the same way 😎
+✅ Involving 100% of people in what we say or write is sometimes a challenge, and when we meet it, it's
+an epic win.
+
+## 📑 Resources
+📽️ Video that explains the stakes well
+🕮 Gender-neutral terms dictionary
+
+## 🙏 Image credits
+Extension icon: Alex Martynov
+Social media preview: Adrien Sales
+
+________________________________________________________________________________________
+**FR**
+
 ## ❔ A propos
 
 - 🧑‍🤝‍🧑 Un recueil de termes et expressions genrées et leurs équivalents épicènes, pour des interfaces plus inclusives 👐
@@ -38,7 +76,5 @@ un [_epic win_](https://videogamecreation.fr/glossaire/epic-win/).
 )
 
 ## 🙏 Crédits images
-
-Icône de l'extension : Alex Martynov
-
-Social media preview : Adrien Sales
+- Icône de l'extension : Alex Martynov
+- Social media preview : Adrien Sales
