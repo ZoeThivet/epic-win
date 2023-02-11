@@ -1,10 +1,10 @@
-**EN**
+# **EN**
 ## ❔ About
-🧑‍🤝‍🧑 A collection of gendered terms and expressions and their gender-neutral equivalents, for more inclusive interfaces 👐
+🧑‍🤝‍🧑 A collection of gendered terms and expressions frequently found in software and their gender-neutral equivalents, for more inclusive interfaces 👐
 🤓 And also (soon) a browser extension to identify words that could be made gender-neutral ❣️
 
 ## 🎯 For whom?
-For people who create software and are looking for terms that imply 100% of their target.
+For people who create software in French (or including a French version) and are looking for terms that imply 100% of their target.
 
 ## :octocat: Contribute?
 If examples come to mind, you can add terms and expressions to this file!
@@ -16,8 +16,7 @@ It's not always easy and we think better together 😅
 
 ## 💭 Why this project?
 While the so-called "neutral" masculine invisibilizes women...
-
-gender-neutral writing goes beyond the very notion of gender, and that's beautiful.
+> gender-neutral writing goes beyond the very notion of gender, and that's beautiful.
 
 ## 🤔 Why epic-win?
 Because:
@@ -34,11 +33,11 @@ Extension icon: Alex Martynov
 Social media preview: Adrien Sales
 
 ________________________________________________________________________________________
-**FR**
+# **FR**
 
 ## ❔ A propos
 
-- 🧑‍🤝‍🧑 Un recueil de termes et expressions genrées et leurs équivalents épicènes, pour des interfaces plus inclusives 👐
+- 🧑‍🤝‍🧑 Un recueil de termes et expressions genrées que l'on trouve fréquemment dans les logiciels et leurs équivalents épicènes, pour des interfaces plus inclusives 👐
 - 🤓 Et aussi ([bientôt](https://github.com/ZoeThivet/epic-win/issues/5)) une extension de navigateur pour repérer les mots qui pourraient être rendus épicènes ❣️
 
 ## 🎯 Pour qui ?
