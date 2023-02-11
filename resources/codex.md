@@ -16,6 +16,8 @@
 
 **contributeur financier, donateur** : mécène
 
+**contributeur technique** : personne ayant contribué techniquement
+
 **débutant** : junior, novice
 
 **déconnecté(e)** : en mode déconnecté, hors-ligne
@@ -35,6 +37,8 @@
 **interface homme-machine** : interface humain-machine
 
 **interface utilisateur** : interface (tout court !)
+
+**j'ai lu le texte et je suis conscient(e) des conséquences** : j'ai lu le texte et ai conscience des conséquences
 
 **jeton utilisateur** : jeton personnel
 
@@ -76,6 +80,8 @@
 
 **vous allez être redirigé(e) vers la page d'accueil** : nous allons vous rediriger vers la page d'accueil
 
+**vous devez être autorisé(e) à \[...\]** : une permission supplémentaire est nécessaire pour \[...\]
+
 **vous reconnaissez être informé(e) que \[...\]** : vous confirmez que vous savez que \[...\]
 
 **vous êtes (dé)connecté(e)** : (dé)connexion réussie, votre connexion est (in)active
@@ -86,7 +92,7 @@
 
 **vous êtes nouveau, nouvelle ici ?** : vous découvrez (le site, l'organisation...) ? vous venez d'arriver ?
 
-**vous êtes passé(e) par \[telle solution\]** : vous utilisé \[telle solution\]
+**vous êtes passé(e) par \[telle solution\]** : vous avez utilisé \[telle solution\]
 
 **vous êtes prêt(e)** : vous allez pouvoir vous lancer
 
