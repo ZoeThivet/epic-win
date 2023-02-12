@@ -1,6 +1,6 @@
 **à quel point êtes-vous satisfait(e) de la performance du site ?** : à quel point la performance du site vous satisfait-elle ?
 
-**administrateur, administratrice** : admin, administration du site, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice
+**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice, responsable
 
 **ami(e)** : camarade, collègue, contact
 
@@ -12,11 +12,11 @@
 
 **connecté(e)** : en ligne, en mode connecté
 
-**contributeur** : membre de la communauté
+**contributeur** : bénévole, membre de la communauté, partenaire
 
 **contributeur financier, donateur** : mécène
 
-**contributeur technique** : personne ayant contribué techniquement
+**contributeur technique** : bénévole technique, personne ayant contribué techniquement
 
 **débutant** : junior, novice
 
@@ -32,7 +32,7 @@
 
 **êtes-vous sûr(e) qu'il n'y a pas de... ?** : peut-être existe-t-il... ?
 
-**expert** : senior, spécialiste
+**expert** : guide, mentor, senior, spécialiste
 
 **interface homme-machine** : interface humain-machine
 
