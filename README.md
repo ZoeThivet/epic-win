@@ -1,7 +1,6 @@
 # **EN**
 ## ❔ About
 - 🧑‍🤝‍🧑 A collection of French gendered terms and expressions frequently found in software and their gender-neutral equivalents, for more inclusive interfaces 👐
-- 🤓 And also a [browser extension](https://chrome.google.com/webstore/detail/epicwin/aciibcnkjbhipjgeljiallcjoajkgabl?hl=fr&authuser=5) to identify words that could be made gender-neutral ❣️
 
 ## 🎯 For whom?
 For people who create software in French (or including a French version) and are looking for terms that imply 100% of their target.
@@ -34,7 +33,6 @@ ________________________________________________________________________________
 ## ❔ A propos
 
 - 🧑‍🤝‍🧑 Un recueil de termes et expressions genrées que l'on trouve fréquemment dans les logiciels et leurs équivalents épicènes, pour des interfaces plus inclusives 👐
-- 🤓 Et aussi [une extension de navigateur](https://chrome.google.com/webstore/detail/epicwin/aciibcnkjbhipjgeljiallcjoajkgabl?hl=fr&authuser=5) pour repérer les mots qui pourraient être rendus épicènes ❣️
 
 ## 🎯 Pour qui ?
 
