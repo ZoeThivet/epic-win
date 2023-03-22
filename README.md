@@ -69,6 +69,8 @@ un [_epic win_](https://videogamecreation.fr/glossaire/epic-win/).
 )
 - 🕮 [Un autre !](https://arkemie.net/dictionnaire/)
 
+- Cassons l'idée reçue selon laquelle "en anglais il n'y a pas ce problème", avec [cet article très intéressant](https://uxdesign.cc/gender-inclusive-design-is-the-only-way-968494d5afc2)
+
 ## 🙏 Crédits images
 - Icône de l'extension : Alex Martynov
 - Social media preview : Adrien Sales
