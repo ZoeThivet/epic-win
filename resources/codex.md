@@ -2,11 +2,13 @@
 
 **absent(e)** : pas là, plus là
 
-**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice, responsable
+**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice, personne chargée d'administrer \[le site, le système...\], responsable
 
 **ami(e)** : camarade, collègue, contact
 
 **assistance client** : assistance cliente (on passe du nom "client", à l'adjectif "cliente", accordé à "assistance")
+
+**auteur** : plume
 
 **autoriser les utilisateurs, les utilisatrices, à s'inscrire** : autoriser l'inscription
 
@@ -22,7 +24,7 @@
 
 **contributeur technique** : bénévole technique, personne ayant contribué techniquement
 
-**débutant** : junior, novice
+**débutant** : junior, néophyte, novice
 
 **déconnecté(e)** : en mode déconnecté, hors-ligne
 
@@ -54,6 +56,8 @@
 
 **nom d'utilisateur** : identifiant
 
+**nous** : remplacer "nous" par l'entité concernée (le comité, la société, l'association, l'équipe...)
+
 **nous sommes désolé(e)s** : nous nous excusons, toutes nos excuses
 
 **nous sommes heureux, heureuses** : nous nous réjouissons
@@ -61,6 +65,8 @@
 **nous sommes heureux, heureuses de vous annoncer \[...\]** : nous avons le plaisir de vous annoncer \[...\]
 
 **nous sommes impatient(e)s** : nous avons hâte
+
+**nouveau** : voir "débutant"
 
 **permettre aux utilisateurs** : permettre (tout court !)
 
@@ -75,6 +81,8 @@
 **sans l'aide de l'utilisateur, de l'utilisatrice** : sans aide humaine, sans intervention humaine
 
 **si l'utilisateur ou l'utilisatrice change de ...** : si le/la ... est changé(e)
+
+**si vous êtes intéressé(e) par...** : si... vous intéresse
 
 **testeur** : QA, membre de l'équipe de test, spécialiste en test logiciel
 
@@ -103,3 +111,5 @@
 **vous êtes prêt(e)** : vous allez pouvoir vous lancer
 
 **vous n'êtes pas autorisé(e) à accéder à cette page** : vous n'avez pas la permission / l'autorisation d'accéder à cette page
+
+**vous souhaitez être tenu au courant ?** : vous souhaitez recevoir de nos nouvelles ?
