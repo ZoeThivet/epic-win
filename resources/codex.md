@@ -1,5 +1,7 @@
 **à quel point êtes-vous satisfait(e) de la performance du site ?** : à quel point la performance du site vous satisfait-elle ?
 
+**absent(e)** : pas là, plus là
+
 **administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice, responsable
 
 **ami(e)** : camarade, collègue, contact
@@ -7,6 +9,8 @@
 **assistance client** : assistance cliente (on passe du nom "client", à l'adjectif "cliente", accordé à "assistance")
 
 **autoriser les utilisateurs, les utilisatrices, à s'inscrire** : autoriser l'inscription
+
+**coéquipier, coéquipière** : membre de l'équipe
 
 **compte utilisateur** : compte (tout court !), compte personnel
 
@@ -61,6 +65,8 @@
 **permettre aux utilisateurs** : permettre (tout court !)
 
 **pour être sûr(e) de \[...\]** : pour s'assurer de \[...\]
+
+**présent(e)** : là
 
 **rester connecté(e)** : maintenir la connexion
 
