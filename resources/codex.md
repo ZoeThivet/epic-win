@@ -56,7 +56,7 @@
 
 **nom d'utilisateur** : identifiant
 
-**nous** : remplacer "nous" par l'entité concernée (le comité, la société, l'association, l'équipe...)
+**nous** : *remplacer "nous" par l'entité concernée (le comité, la société, l'association, l'équipe...)*
 
 **nous sommes désolé(e)s** : nous nous excusons, toutes nos excuses
 
