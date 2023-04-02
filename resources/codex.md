@@ -1,4 +1,4 @@
-**à quel point êtes-vous satisfait(e) de la performance du site ?** : à quel point la performance du site vous satisfait-elle ?
+**à quel point êtes-vous satisfait(e) du service ?** : à quel point le service vous satisfait-il ?
 
 **absent(e)** : pas là, plus là
 
