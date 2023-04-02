@@ -134,6 +134,6 @@
 
 **vous n'êtes pas autorisé(e) à accéder à cette page** : vous n'avez pas la permission / l'autorisation d'accéder à cette page
 
-**vous reconnaissez être informé(e) que \[...\]** : vous confirmez que vous savez que \[...\]
+**vous reconnaissez être informé(e) que \[...\]** : vous confirmez savoir que \[...\]
 
 **vous souhaitez être tenu au courant ?** : vous souhaitez recevoir de nos nouvelles ?
