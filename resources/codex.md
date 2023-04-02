@@ -12,6 +12,10 @@
 
 **autoriser les utilisateurs, les utilisatrices, à s'inscrire** : autoriser l'inscription
 
+**chacun(e) doit** : il est nécessaire/obligatoire de, il faut
+
+**client** : clientèle (voir aussi *utilisateur, utilisatrice*)
+
 **coéquipier, coéquipière** : membre de l'équipe
 
 **compte utilisateur** : compte (tout court !), compte personnel
@@ -24,7 +28,7 @@
 
 **contributeur technique** : bénévole technique, personne ayant contribué techniquement
 
-**débutant** : junior, néophyte, novice
+**débutant(e)** : junior, néophyte, novice
 
 **déconnecté(e)** : en mode déconnecté, hors-ligne
 
@@ -52,6 +56,8 @@
 
 **le, la propriétaire de \[...\]** : la personne gérant \[...\]
 
+**lorsque vous serez inscrit(e)** : après votre inscription, une fois votre inscription faite
+
 **lorsque vous vous êtes inscrit(e)** : lors de votre inscription
 
 **nom d'utilisateur** : identifiant
@@ -66,7 +72,7 @@
 
 **nous sommes impatient(e)s** : nous avons hâte
 
-**nouveau** : voir "débutant"
+**nouveau** : voir *débutant(e)*
 
 **permettre aux utilisateurs** : permettre (tout court !)
 
@@ -86,17 +92,17 @@
 
 **testeur** : QA, membre de l'équipe de test, spécialiste en test logiciel
 
-**utilisateur, utilisatrice** : compte, personne, membre, on
+**usager, usagère** : voir *utilisateur, utilisatrice*
 
-**veuillez contacter l'administrateur du site** : veuillez contacter l'administration du site / la personne administrant le site
+**utilisateur, utilisatrice** : compte, internaute, personne, membre, on
+
+**veuillez contacter l'administrateur du site** : veuillez contacter l'administration du site / la personne administrant le site (voir *administrateur, administratrice*)
 
 **vous allez être déconnecté(e) de votre session** : votre session va être déconnectée, votre session va expirer
 
 **vous allez être redirigé(e) vers la page d'accueil** : nous allons vous rediriger vers la page d'accueil
 
 **vous devez être autorisé(e) à \[...\]** : une permission supplémentaire est nécessaire pour \[...\]
-
-**vous reconnaissez être informé(e) que \[...\]** : vous confirmez que vous savez que \[...\]
 
 **vous êtes (dé)connecté(e)** : (dé)connexion réussie, votre connexion est (in)active
 
@@ -110,6 +116,10 @@
 
 **vous êtes prêt(e)** : vous allez pouvoir vous lancer
 
+**vous êtes prié(e) de...** : merci de... nous vous invitons à... prière de...
+
 **vous n'êtes pas autorisé(e) à accéder à cette page** : vous n'avez pas la permission / l'autorisation d'accéder à cette page
+
+**vous reconnaissez être informé(e) que \[...\]** : vous confirmez que vous savez que \[...\]
 
 **vous souhaitez être tenu au courant ?** : vous souhaitez recevoir de nos nouvelles ?
