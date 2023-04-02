@@ -4,6 +4,8 @@
 
 **administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice, personne chargée d'administrer \[le site, le système...\], responsable
 
+**amateur, amatrice** : adepte, fan
+
 **ami(e)** : camarade, collègue, contact
 
 **assistance client** : assistance cliente (on passe du nom "client", à l'adjectif "cliente", accordé à "assistance")
@@ -14,13 +16,17 @@
 
 **chacun(e) doit** : il est nécessaire/obligatoire de, il faut
 
+**chargé(e)** : responsable
+
 **client** : clientèle (voir aussi *utilisateur, utilisatrice*)
 
-**coéquipier, coéquipière** : membre de l'équipe
+**coéquipier, coéquipière** : membre de l'équipe, partenaire
 
 **compte utilisateur** : compte (tout court !), compte personnel
 
 **connecté(e)** : en ligne, en mode connecté
+
+**conseiller, conseillère** : guide
 
 **contributeur** : bénévole, membre de la communauté, partenaire
 
@@ -34,6 +40,8 @@
 
 **développeur, développeuse** : dev, membre de l'équipe de développement, spécialiste en développement
 
+**ennemi(e)** : antagoniste
+
 **êtes-vous sûr(e) ?** : confirmez-vous ? est-ce vraiment ce que vous voulez ?
 
 **êtes-vous sûr(e) d'avoir correctement saisi votre adresse courriel ?** : votre adresse courriel a-t-elle été correctement saisie ?
@@ -42,7 +50,7 @@
 
 **êtes-vous sûr(e) qu'il n'y a pas de... ?** : peut-être existe-t-il... ?
 
-**expert** : guide, mentor, senior, spécialiste
+**expert(e)** : guide, mentor, senior, spécialiste
 
 **interface homme-machine** : interface humain-machine
 
@@ -54,7 +62,7 @@
 
 **l'appareil sur lequel vous êtes connecté(e)** : l'appareil que vous utilisez, l'appareil sur lequel vous avez effectué une connexion
 
-**le, la propriétaire de \[...\]** : la personne gérant \[...\]
+**lecteurs, lectrices** : lectorat
 
 **lorsque vous serez inscrit(e)** : après votre inscription, une fois votre inscription faite
 
@@ -79,6 +87,10 @@
 **pour être sûr(e) de \[...\]** : pour s'assurer de \[...\]
 
 **présent(e)** : là
+
+**propriétaire de \[...\]** : personne gérant \[...\]
+
+**représentant(e)** : porte-parole
 
 **rester connecté(e)** : maintenir la connexion
 
@@ -109,6 +121,8 @@
 **vous êtes déjà inscrit(e)** : vous avez déjà un compte
 
 **vous êtes invité(e) à \[...\]** : il vous est conseillé de, nous vous invitons à
+
+**vous êtes nombreux et nombreuses à demander...** : nous avons reçu de nombreuses fois la demande...
 
 **vous êtes nouveau, nouvelle ici ?** : vous découvrez (le site, l'organisation...) ? vous venez d'arriver ?
 
