@@ -23,6 +23,9 @@ Because:
 - ✅ Involving 100% of people in what we say or write is sometimes a challenge, and when we meet it, it's
 an epic win.
 
+## Resources in English
+- https://uxdesign.cc/gender-inclusive-design-is-the-only-way-968494d5afc2
+
 ## 🙏 Image credits
 - Extension icon: Alex Martynov
 - Social media preview: Adrien Sales
@@ -72,6 +75,12 @@ un [_epic win_](https://videogamecreation.fr/glossaire/epic-win/).
 )
 
 - 🕮 [Un autre !](https://arkemie.net/dictionnaire/)
+
+- 🔗 Une liste de liens de l'office québecois de la langue française :
+  - [Adjectifs et groupes prépositionnels épicènes](https://vitrinelinguistique.oqlf.gouv.qc.ca/23988/la-redaction-et-la-communication/feminisation-et-redaction-epicene/redaction-epicene/formulation-neutre/adjectifs-et-groupes-prepositionnels-epicenes)
+  - [Liste de termes épicènes ou neutres](https://vitrinelinguistique.oqlf.gouv.qc.ca/25465/la-redaction-et-la-communication/feminisation-et-redaction-epicene/redaction-epicene/formulation-neutre/liste-de-termes-epicenes-ou-neutres)
+  - [Phrases épicènes](https://vitrinelinguistique.oqlf.gouv.qc.ca/23987/la-redaction-et-la-communication/feminisation-et-redaction-epicene/redaction-epicene/formulation-neutre/phrases-epicenes)
+  - [Cahier d'exercices de rédaction épicène](https://www.oqlf.gouv.qc.ca/redaction-epicene/exercices-redaction-epicene.pdf) et son [corrigé](https://www.oqlf.gouv.qc.ca/redaction-epicene/corrige_exercices-redaction-epicene.pdf)
 
 - 💂 Cassons l'idée reçue selon laquelle "en anglais il n'y a pas ce problème", avec [cet article très intéressant](https://uxdesign.cc/gender-inclusive-design-is-the-only-way-968494d5afc2)
 
