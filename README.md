@@ -71,7 +71,7 @@ un [_epic win_](https://videogamecreation.fr/glossaire/epic-win/).
 
 - 🕮 [*Visibles, lisibles*](https://www.etsmtl.ca/docs/ets/a-propos/documents/guide-ecriture-inclusive-complete), guide d'écriture inclusive de l'Ecole de Technologie Supérieure (ETS) de l'Université du Québec. Ce guide très clair et bien construit fournit du vocabulaire globalement polarisé autour de la vie étudiante et la recherche. Cette ressource a été partagée par Chris Fuhrman.
 
-- [Guide de grammaire neutre et inclusive](https://divergenres.org/wp-content/uploads/2021/04/guide-grammaireinclusive-final.pdf), par Divergenres. Une lecture qui ouvre de nouveaux horizons
+- 🕮 [Guide de grammaire neutre et inclusive](https://divergenres.org/wp-content/uploads/2021/04/guide-grammaireinclusive-final.pdf), par Divergenres. Une lecture qui ouvre de nouveaux horizons
 
 - 🕮 [Dictionnaire de termes épicènes](https://docs.google.com/spreadsheets/d/1jsI_J06jnqgadl9Uo3lBhKnGzuPYEY1_SRQhReifH-Q/edit?usp=sharing
 )
