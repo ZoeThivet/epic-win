@@ -106,7 +106,7 @@
 
 **usager, usagère** : voir *utilisateur, utilisatrice*
 
-**utilisateur, utilisatrice** : compte, internaute, personne, membre, on
+**utilisateur, utilisatrice** : compte, internaute, personne, profil, membre, on
 
 **veuillez contacter l'administrateur du site** : veuillez contacter l'administration du site / la personne administrant le site (voir *administrateur, administratrice*)
 
