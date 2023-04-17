@@ -80,6 +80,8 @@
 
 **nous sommes impatient(e)s** : nous avons hâte
 
+**nous sommes sûr(e)s que...** : nous avons la certitude que... / pour nous, c'est sûr, ...
+
 **nouveau** : voir *débutant(e)*
 
 **permettre aux utilisateurs** : permettre (tout court !)
