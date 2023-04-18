@@ -2,7 +2,7 @@
 
 **absent(e)** : pas là, plus là
 
-**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrantle site, le système..., personne administratrice, personne chargée d'administrerle site, le système..., responsable
+**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant le site, le système..., personne administratrice, personne chargée d'administrer le site, le système..., responsable
 
 **amateur, amatrice** : adepte, fan
 
@@ -130,7 +130,7 @@
 
 **vous êtes nouveau, nouvelle ici ?** : vous découvrez (le site, l'organisation...) ? vous venez d'arriver ?
 
-**vous êtes passé(e) par telle solution** : vous avez utilisételle solution
+**vous êtes passé(e) par telle solution** : vous avez utilisé telle solution
 
 **vous êtes prêt(e)** : vous allez pouvoir vous lancer
 
