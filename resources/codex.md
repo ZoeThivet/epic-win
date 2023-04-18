@@ -2,7 +2,7 @@
 
 **absent(e)** : pas là, plus là
 
-**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant \[le site, le système...\], personne administratrice, personne chargée d'administrer \[le site, le système...\], responsable
+**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrantle site, le système..., personne administratrice, personne chargée d'administrerle site, le système..., responsable
 
 **amateur, amatrice** : adepte, fan
 
@@ -72,11 +72,13 @@
 
 **nous** : *remplacer "nous" par l'entité concernée (le comité, la société, l'association, l'équipe...)*
 
+**nous sommes attentifs, attentives à...** : nous faisons attention à ... / nous portons notre attention sur... / nous prenons soin de... / nous soignons...
+
 **nous sommes désolé(e)s** : nous nous excusons, toutes nos excuses
 
 **nous sommes heureux, heureuses** : nous nous réjouissons
 
-**nous sommes heureux, heureuses de vous annoncer \[...\]** : nous avons le plaisir de vous annoncer \[...\]
+**nous sommes heureux, heureuses de vous annoncer...** : nous avons le plaisir de vous annoncer...
 
 **nous sommes impatient(e)s** : nous avons hâte
 
@@ -86,11 +88,11 @@
 
 **permettre aux utilisateurs** : permettre (tout court !)
 
-**pour être sûr(e) de \[...\]** : pour s'assurer de \[...\]
+**pour être sûr(e) de...** : pour s'assurer de...
 
 **présent(e)** : là
 
-**propriétaire de \[...\]** : personne gérant \[...\]
+**propriétaire de...** : personne gérant...
 
 **représentant(e)** : porte-parole
 
@@ -116,19 +118,19 @@
 
 **vous allez être redirigé(e) vers la page d'accueil** : nous allons vous rediriger vers la page d'accueil
 
-**vous devez être autorisé(e) à \[...\]** : une permission supplémentaire est nécessaire pour \[...\]
+**vous devez être autorisé(e) à...** : une permission supplémentaire est nécessaire pour...
 
 **vous êtes (dé)connecté(e)** : (dé)connexion réussie, votre connexion est (in)active
 
 **vous êtes déjà inscrit(e)** : vous avez déjà un compte
 
-**vous êtes invité(e) à \[...\]** : il vous est conseillé de, nous vous invitons à
+**vous êtes invité(e) à...** : il vous est conseillé de, nous vous invitons à
 
 **vous êtes nombreux et nombreuses à demander...** : nous avons reçu de nombreuses fois la demande...
 
 **vous êtes nouveau, nouvelle ici ?** : vous découvrez (le site, l'organisation...) ? vous venez d'arriver ?
 
-**vous êtes passé(e) par \[telle solution\]** : vous avez utilisé \[telle solution\]
+**vous êtes passé(e) par telle solution** : vous avez utilisételle solution
 
 **vous êtes prêt(e)** : vous allez pouvoir vous lancer
 
@@ -136,6 +138,6 @@
 
 **vous n'êtes pas autorisé(e) à accéder à cette page** : vous n'avez pas la permission / l'autorisation d'accéder à cette page
 
-**vous reconnaissez être informé(e) que \[...\]** : vous confirmez savoir que \[...\]
+**vous reconnaissez être informé(e) que...** : vous confirmez savoir que...
 
 **vous souhaitez être tenu au courant ?** : vous souhaitez recevoir de nos nouvelles ?
