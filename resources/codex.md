@@ -16,7 +16,7 @@
 
 **chacun(e) doit** : il est nécessaire/obligatoire de, il faut
 
-**chargé(e)** : responsable
+**chargé(e)** : gestionnaire, responsable
 
 **client** : clientèle (voir aussi *utilisateur, utilisatrice*)
 
@@ -106,7 +106,9 @@
 
 **si vous êtes intéressé(e) par...** : si... vous intéresse
 
-**testeur** : QA, membre de l'équipe de test, spécialiste en test logiciel
+**testeur** : analyste de test, architecte en qualité logicielle, membre de l'équipe de test, QA, spécialiste en test logiciel
+
+**une fois abonné(e)** : une fois votre abonnement validé
 
 **usager, usagère** : voir *utilisateur, utilisatrice*
 
