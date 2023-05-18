@@ -1,6 +1,6 @@
 # **EN**
 ## ❔ About
-- 🧑‍🤝‍🧑 A collection of French gendered terms and expressions frequently found in software and their gender-neutral equivalents, for more inclusive interfaces 👐
+🧑‍🤝‍🧑 A collection of French gendered terms and expressions frequently found in software and their gender-neutral equivalents, for more inclusive interfaces 👐
 
 ## 🎯 For whom?
 For people who create software in French (or including a French version) and are looking for terms that imply 100% of their target.
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 ## ❔ A propos
 
-- 🧑‍🤝‍🧑 Un recueil de termes et expressions genrées que l'on trouve fréquemment dans les logiciels et leurs équivalents épicènes, pour des interfaces plus inclusives 👐
+🧑‍🤝‍🧑 Un recueil de termes et expressions genrées que l'on trouve fréquemment dans les logiciels et leurs équivalents épicènes, pour des interfaces plus inclusives 👐
 
 ## 🎯 Pour qui ?
 
