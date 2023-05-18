@@ -108,6 +108,8 @@
 
 **testeur** : analyste de test, architecte en qualité logicielle, membre de l'équipe de test, QA, spécialiste en test logiciel
 
+**tous(tes)** : chaque personne, tout le monde
+
 **une fois abonné(e)** : une fois votre abonnement validé
 
 **usager, usagère** : voir *utilisateur, utilisatrice*
