@@ -1,6 +1,10 @@
 # **Procédés de traduction**
 
-## Remplacer des mots
+Le plus rapide est de remplacer des mots par d'autres.
+
+Cependant, il est parfois nécessaire de transformer la phrase !
+
+## 1) Remplacer des mots
 
 ### Remplacer un rôle genré par un rôle épicène
 
@@ -28,7 +32,7 @@ Testeur, testeuse -> QA
 
 \*Attention, l'usage de ce procédé n'est pas possible dans tous les contextes
 
-## Transformer la phrase
+## 2) Transformer la phrase
 
 ### Enlever des mots
 
