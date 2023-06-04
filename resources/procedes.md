@@ -22,6 +22,10 @@ Intelligent(e) -> Lucide, Perspicace, Sagace
 
 Quand un utilisateur s’inscrit -> Quand on s’inscrit
 
+### Utiliser une métonymie
+
+Auteur, autrice -> plume
+
 ### Utiliser des diminutifs
 
 Développeur, développeuse -> Dev
