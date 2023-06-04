@@ -22,7 +22,7 @@ Intelligent(e) -> Lucide, Perspicace, Sagace
 
 Quand un utilisateur s’inscrit -> Quand on s’inscrit
 
-### Utiliser une métonymie
+### Utiliser une [métonymie](https://fr.wikipedia.org/wiki/M%C3%A9tonymie)
 
 Auteur, autrice -> plume
 
