@@ -60,6 +60,8 @@
 
 **jeton utilisateur** : jeton personnel
 
+**joueur, joueuse** : clavier, manette, protagoniste, stratège
+
 **l'appareil sur lequel vous êtes connecté(e)** : l'appareil que vous utilisez, l'appareil sur lequel vous avez effectué une connexion
 
 **lecteurs, lectrices** : lectorat
