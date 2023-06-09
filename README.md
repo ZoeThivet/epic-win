@@ -2,7 +2,7 @@
 
 ## ❔ A propos
 
-🧑‍🤝‍🧑 Un recueil de termes et expressions genrées que l'on trouve fréquemment dans les logiciels et leurs équivalents épicènes, pour des interfaces plus inclusives 👐
+🧑‍🤝‍🧑 Un [recueil](resources/codex.md) de termes et expressions genrées que l'on trouve fréquemment dans les logiciels et leurs équivalents épicènes, pour des interfaces plus inclusives 👐
 
 📜 Un recueil de [procédés](resources/procedes.md) pour démarrer ses propres traductions !
 
