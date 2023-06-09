@@ -2,7 +2,7 @@
 
 **absent(e)** : pas là, plus là
 
-**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant le site, le système..., personne administratrice, personne chargée d'administrer le site, le système..., responsable
+**administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant le site, le système..., personne administratrice, personne chargée d'administrer le site ou le système, responsable
 
 **amateur, amatrice** : adepte, fan
 
@@ -13,6 +13,8 @@
 **auteur** : plume
 
 **autoriser les utilisateurs, les utilisatrices, à s'inscrire** : autoriser l'inscription
+
+**chacun(e)** : quiconque, toute personne
 
 **chacun(e) doit** : il est nécessaire/obligatoire de, il faut
 
