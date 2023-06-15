@@ -6,6 +6,8 @@ Les traductions veillent à rester concises pour respecter l'espace limité déd
 
 # Codex IRL
 
+Par ici les gourmands *(vu dans un TGC Inoui pour indiquer la voiture-bar)* : Par ici le miam miam, Par ici les bonnes choses
+
 Sans voyageur *(vu sur des bus en France métropolitaine)* : Circule à vide, Ne pas monter
 
 Sauf riverains *(vu à l'entrée de voies en France métropolitaine)* : Sauf voisinage
