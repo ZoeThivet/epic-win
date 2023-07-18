@@ -24,7 +24,7 @@
 
 **coéquipier, coéquipière** : membre de l'équipe, partenaire
 
-**compte utilisateur** : compte (tout court !), compte personnel
+**compte utilisateur, compte client** : compte (tout court !), compte personnel
 
 **connecté(e)** : en ligne, en mode connecté
 
@@ -96,7 +96,7 @@
 
 **présent(e)** : là
 
-**propriétaire de...** : personne gérant...
+**propriétaire, titulaire, détenteur de...** : personne gérant...
 
 **représentant(e)** : porte-parole
 
