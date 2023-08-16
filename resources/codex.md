@@ -58,6 +58,8 @@
 
 **interface utilisateur** : interface (tout court !)
 
+**interlocuteur, interlocutrice** : contact
+
 **j'ai lu le texte et je suis conscient(e) des conséquences** : j'ai lu le texte et ai conscience des conséquences
 
 **jeton utilisateur** : jeton personnel
