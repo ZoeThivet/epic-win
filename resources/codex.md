@@ -6,17 +6,17 @@
 
 **amateur, amatrice** : adepte, fan
 
-**ami(e)** : camarade, collègue, contact
+**ami(e)** : camarade, collègue, contact, pote
 
 **assistance client** : assistance cliente (on passe du nom "client", à l'adjectif "cliente", accordé à "assistance")
 
-**auteur** : plume
+**auteur** : nom, plume
 
 **autoriser les utilisateurs, les utilisatrices, à s'inscrire** : autoriser l'inscription
 
 **chacun(e)** : quiconque, toute personne
 
-**chacun(e) doit** : il est nécessaire/obligatoire de, il faut
+**chacun(e) doit** : il est nécessaire/obligatoire de, il faut, on doit
 
 **chargé(e)** : gestionnaire, responsable
 
@@ -70,7 +70,7 @@
 
 **l'appareil sur lequel vous êtes connecté(e)** : l'appareil que vous utilisez, l'appareil sur lequel vous avez effectué une connexion
 
-**lecteurs, lectrices** : lectorat
+**lecteurs, lectrices** : audience, lectorat, public
 
 **lorsque vous serez inscrit(e)** : après votre inscription, une fois votre inscription faite
 
@@ -134,9 +134,9 @@
 
 **vous êtes (dé)connecté(e)** : (dé)connexion réussie, votre connexion est (in)active
 
-**vous êtes déjà inscrit(e)** : vous avez déjà un compte
+**vous êtes déjà inscrit(e)** : vous avez déjà un compte, vous êtes déjà parmi nous
 
-**vous êtes invité(e) à...** : il vous est conseillé de, nous vous invitons à
+**vous êtes invité(e) à...** : il vous est conseillé de, merci de, nous vous invitons à, veuillez
 
 **vous êtes nombreux et nombreuses à demander...** : nous avons reçu de nombreuses fois la demande...
 
