@@ -52,6 +52,8 @@
 
 **êtes-vous sûr(e) qu'il n'y a pas de... ?** : peut-être existe-t-il... ?
 
+**être alerté(e)** : recevoir une alerte
+
 **expert(e)** : guide, mentor, senior, spécialiste
 
 **interface homme-machine** : interface humain-machine
