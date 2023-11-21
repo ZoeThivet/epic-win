@@ -1,3 +1,5 @@
+NB : certains termes sont parfois mis au féminin, notamment au Québec. Leur statut d'épicène est donc questionnable. Ces termes sont marqués d'une astérisque.
+
 **à quel point êtes-vous satisfait(e) du service ?** : à quel point le service vous satisfait-il ?
 
 **absent(e)** : pas là, plus là
@@ -58,7 +60,7 @@
 
 **expérience utilisateur** : expérience d'utilisation
 
-**expert(e)** : guide, mentor, senior, spécialiste
+**expert(e)** : guide, mentor*, senior*, spécialiste
 
 **interface homme-machine** : interface humain-machine
 
@@ -79,6 +81,8 @@
 **lorsque vous serez inscrit(e)** : après votre inscription, une fois votre inscription faite
 
 **lorsque vous vous êtes inscrit(e)** : lors de votre inscription
+
+**maître du jeu** : mentor*, sentinelle du jeu
 
 **nom d'utilisateur** : identifiant
 
