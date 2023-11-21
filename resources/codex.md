@@ -38,6 +38,8 @@
 
 **débutant(e)** : junior, néophyte, novice
 
+**décideur, décideuse** : décisionnaire
+
 **déconnecté(e)** : en mode déconnecté, hors-ligne
 
 **développeur, développeuse** : dev, membre de l'équipe de développement, spécialiste en développement
