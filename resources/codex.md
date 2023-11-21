@@ -2,7 +2,7 @@ NB : certains termes sont parfois mis au féminin, notamment au Québec. Leur st
 
 **à quel point êtes-vous satisfait(e) du service ?** : à quel point le service vous satisfait-il ?
 
-**absent(e)** : pas là, plus là
+**absent(e)** : ailleurs, hors-connexion, hors-jeu, hors-ligne, pas là, plus là
 
 **administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant le site, le système..., personne administratrice, personne chargée d'administrer le site ou le système, responsable
 
