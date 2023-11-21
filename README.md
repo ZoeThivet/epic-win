@@ -38,6 +38,8 @@ un [_epic win_](https://videogamecreation.fr/glossaire/epic-win/).
 - 📽️ [Vidéo qui explique bien les enjeux](https://www.youtube.com/watch?v=url1TFdHlSI
 )
 
+- [Une autre !](https://www.youtube.com/watch?v=3edQsQeRt-Y) Disclaimer : c'est moi qui l'ai faite
+
 - 🕮 [*Visibles, lisibles*](https://www.etsmtl.ca/docs/ets/a-propos/documents/guide-ecriture-inclusive-complete), guide d'écriture inclusive de l'Ecole de Technologie Supérieure (ETS) de l'Université du Québec. Ce guide très clair et bien construit fournit du vocabulaire globalement polarisé autour de la vie étudiante et la recherche. Cette ressource a été partagée par Chris Fuhrman.
 
 - 🕮 [Guide de grammaire neutre et inclusive](https://divergenres.org/wp-content/uploads/2021/04/guide-grammaireinclusive-final.pdf), par Divergenres. Une lecture qui ouvre de nouveaux horizons
