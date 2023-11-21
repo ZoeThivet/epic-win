@@ -54,6 +54,8 @@
 
 **être alerté(e)** : recevoir une alerte
 
+**expérience utilisateur** : expérience d'utilisation
+
 **expert(e)** : guide, mentor, senior, spécialiste
 
 **interface homme-machine** : interface humain-machine
