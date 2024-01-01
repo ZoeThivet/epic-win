@@ -18,6 +18,8 @@ NB : certains termes sont parfois mis au féminin, notamment au Québec. Leur st
 
 **autoriser les utilisateurs, les utilisatrices, à s'inscrire** : autoriser l'inscription
 
+**bonjour à tou(te)s** : bonjour, bonjour à notre communauté, bonjour la team, bonjour tout le monde...
+
 **chacun(e)** : quiconque, toute personne
 
 **chacun(e) doit** : il est nécessaire/obligatoire de, il faut, on doit
