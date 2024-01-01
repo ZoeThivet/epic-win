@@ -6,6 +6,8 @@ NB : certains termes sont parfois mis au féminin, notamment au Québec. Leur st
 
 **administrateur, administratrice** : admin, administration du site, gestionnaire, membre de l'administration, personne administrant le site, le système..., personne administratrice, personne chargée d'administrer le site ou le système, responsable
 
+**aide utilisateur** : aide d'utilisation, tutoriel
+
 **amateur, amatrice** : adepte, fan
 
 **ami(e)** : camarade, collègue, contact, pote
@@ -46,6 +48,8 @@ NB : certains termes sont parfois mis au féminin, notamment au Québec. Leur st
 
 **développeur, développeuse** : dev, membre de l'équipe de développement, spécialiste en développement
 
+**documentation utilisateur** : documentation, documentation d'utilisation, tutoriel
+
 **ennemi(e)** : antagoniste
 
 **êtes-vous sûr(e) ?** : confirmez-vous ? est-ce vraiment ce que vous voulez ?
@@ -61,6 +65,8 @@ NB : certains termes sont parfois mis au féminin, notamment au Québec. Leur st
 **expérience utilisateur** : expérience d'utilisation
 
 **expert(e)** : guide, mentor*, senior*, spécialiste
+
+**guide utilisateur** : guide d'utilisation, tutoriel
 
 **interface homme-machine** : interface humain-machine
 
