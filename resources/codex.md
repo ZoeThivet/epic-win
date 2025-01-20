@@ -52,7 +52,7 @@ NB : certains termes sont parfois mis au féminin, notamment au Québec. Leur st
 
 **documentation utilisateur** : documentation, documentation d'utilisation, tutoriel
 
-**ennemi(e)** : antagoniste
+**ennemi(e)** : adversaire, antagoniste
 
 **êtes-vous sûr(e) ?** : confirmez-vous ? est-ce vraiment ce que vous voulez ?
 
